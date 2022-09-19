@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/Dzungnguyenmanh/micompo.git",
   "author": "dzungnguyen <dzung.nguyenmanh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-loader": "^9.3.1",
+    "typescript": "^4.8.3",
+    "webpack": "^5.74.0"
+  }
 }
